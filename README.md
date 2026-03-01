@@ -1,4 +1,4 @@
-# list
-ConnectorGEN
-https://github.com/Fred96969/list
-999
+# innovative intelligent generative framework for joints (IGF-joint) 
+
+https://github.com/Fred96969/IGF-joint
+
